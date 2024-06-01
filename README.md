@@ -58,7 +58,7 @@ command       /usr/bin/find
 ```
 
 ## Project Structure
-
+```
 cron-expression-parser/
 ├── cron_expression_parser/
 │   ├── formatters/
@@ -89,7 +89,7 @@ cron-expression-parser/
 ├── Dockerfile
 ├──entrypoint.sh
 └── README.md
-
+```
 
 
 ## Constants
